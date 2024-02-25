@@ -1,0 +1,139 @@
+
+
+.flex-container{
+    display: flex;
+    margin-top: 0%;
+}
+
+.logo,.cart{
+    height: 50px;
+}
+
+.logo{
+    width: 200px;
+    display: flex;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.cart{
+    display: flex;
+    align-items: center;
+    margin-left: 70%;
+    width: 150px;
+}
+
+.havefun-logo{
+    margin-top: 10px;
+    position: relative;
+}
+
+.text-block{
+    position: absolute;
+    top: 100px;
+    left: 110px;
+    color: white;
+    font-size: 50px;
+}
+
+.text-block h1{
+    margin: 2px;
+}
+
+.text-block h5{
+    margin: 2px;
+}
+
+.section-container{
+    width: 94%;
+    margin-left: 3%;
+    margin-top: 50px;
+}
+
+.section{
+    margin-top: 1px;
+    margin-bottom: 5rem;
+}
+
+.containers{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0;
+}
+
+.img-container h3{
+    margin-top: 0; 
+    margin-bottom: 0;
+    margin-left: 7px;
+}
+
+.img-container h4{
+    margin-top: 5px;
+    color: grey;
+    margin-left: 7px;
+    margin-bottom: 0;
+}
+
+.buy{
+    margin-left: 7px;
+    display: flex;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+.addbtn{
+    height: 30px;
+    background-color: #318CE7;
+    display: flex;
+    align-items: center;
+    border-radius: 4px;
+    color: white;
+    margin-left: 30%;
+    border: none;
+}
+
+#price{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.container2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0;
+}
+
+.img-container2 img{
+    margin-bottom: 0;
+}
+
+.profile{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 25%;
+    margin-top: 15px;
+}
+
+.about{
+    background-color: black;
+    display: flex;
+}
+
+.text{
+    display: flex;
+    color: white;
+    align-items:center;
+    margin-left: 60%;
+    text-align: right;
+}
+
+.img h2{
+    display: inline;
+    margin-left: 25%;
+    margin-top: 50px;
+}
